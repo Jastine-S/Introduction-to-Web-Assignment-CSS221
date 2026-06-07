@@ -24,4 +24,4 @@ I am a Bachelor of Science with Education Mathematics and ICT (BSC-MICT-EDU) sec
 
 ## Contact
 Email: sangetijustine@gmail.com
-phone: 0741970849
+Phone: 0741970849
