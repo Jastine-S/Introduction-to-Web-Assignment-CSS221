@@ -56,8 +56,9 @@ https://jastine-s.github.io/Introduction-to-Web-Assignment-CSS221/
 
   
 ## Supervisor
--This project was submitted for assessment in Web Programming (CSS 221).
--Lecturer: @lecturer-github-username
+ -This project was submitted for assessment in Web Programming (CSS 221).
+ 
+ -Lecturer: @lecturer-github-username
 
 ## 📌 Submission Info
 Live Site: https://jastine-s.github.io/Introduction-to-Web-Assignment-CSS221/
