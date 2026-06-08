@@ -53,7 +53,15 @@ https://jastine-s.github.io/Introduction-to-Web-Assignment-CSS221/
 - Email: sangetijustine@gmail.com  
 - Phone: 0741970849
 
+---
   
-##Supervisor
+## Supervisor
 This project was submitted for assessment in Web Programming (CSS221).
 Lecturer: @lecturer-github-username
+
+## 📌 Submission Info
+Live Site: https://jastine-s.github.io/Introduction-to-Web-Assignment-CSS221/
+
+Submitted by: Jastine S Mitawas  
+Registration: 14325041/T.24  
+Institution: Mzumbe University
