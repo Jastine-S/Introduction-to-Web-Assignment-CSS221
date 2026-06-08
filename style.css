@@ -19,3 +19,15 @@ body{
     display:block;
     margin:auto;
 }
+
+h1{
+    text-align:center;
+}
+
+h2{
+    color: #0066cc;
+}
+
+p, li{
+    line-height: 1.6;
+}
