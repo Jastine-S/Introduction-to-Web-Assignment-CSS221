@@ -1,4 +1,4 @@
-# Introduction to Web
+# Introduction to Web Programming
 
 ## About Me
 My name is Jastine S Mitawas
