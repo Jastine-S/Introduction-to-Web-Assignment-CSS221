@@ -49,3 +49,21 @@ p, li{
 section{
     margin-bottom: 20px;
 }
+input{
+    padding: 10px;
+    margin: 5px;
+    width: 150px;
+}
+
+button{
+    padding: 10px;
+    margin: 5px;
+    background: #0066cc;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    background: #004c99;
+    }
